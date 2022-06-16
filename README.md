@@ -4,4 +4,4 @@
 
  - Strogonoff de Frango
  - Pavê
- - Bobó de Camarão
+ - Bobó e Cebola
